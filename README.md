@@ -269,6 +269,6 @@ http://localhost:5001
 ##  Ссылки
 
 
-* Приложение на хостинге: *https://lab-4-flask-app.onrender.com*
+* Приложение на хостинге: *(https://lab-4-flask-app-1.onrender.com)*
 
 ---
